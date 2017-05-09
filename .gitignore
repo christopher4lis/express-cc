@@ -31,3 +31,6 @@ npm-debug.log
 
 # Webpack source maps
 *.map
+
+# Local env file with credentials
+.env
