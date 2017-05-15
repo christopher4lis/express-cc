@@ -7,12 +7,10 @@
   },
   "dependencies": {
     "body-parser": "~1.15.2",
-    "chai": "^3.5.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
     "express": "~4.14.0",
     "hbs": "~4.0.1",
-    "mocha": "^3.4.1",
     "morgan": "~1.7.0",
     "mysql": "^2.13.0",
     "serve-favicon": "~2.3.0"
@@ -23,8 +21,10 @@
     "babel-preset-env": "^1.4.0",
     "browser-sync": "^2.18.8",
     "browser-sync-webpack-plugin": "^1.1.4",
+    "chai": "^3.5.0",
     "css-loader": "^0.25.0",
     "extract-text-webpack-plugin": "^2.1.0",
+    "mocha": "^3.4.1",
     "node-sass": "^3.13.0",
     "postcss-loader": "^1.1.1",
     "sass-loader": "^4.0.2",
